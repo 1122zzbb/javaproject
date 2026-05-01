@@ -60,7 +60,7 @@ git clone <repository-url>
 
 ## 作者
 
-软件2201
+yango罗
 
 ## 许可证
 
